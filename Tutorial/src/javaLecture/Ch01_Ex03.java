@@ -1,5 +1,7 @@
 /*
-differences between int and double. 
+1. differences between int and double. 
+2. simple explanation value type and ref type
+3. java documentation or site for reference
 */
 
 package javaLecture;

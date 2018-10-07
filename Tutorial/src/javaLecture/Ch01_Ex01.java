@@ -1,5 +1,5 @@
 /*
-Basic Starting Point 
+1. Basic Starting Point and class file
 */
 package javaLecture;
 

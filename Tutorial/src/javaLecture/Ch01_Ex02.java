@@ -1,5 +1,5 @@
 /*
-Variable and  data type
+1. Variable and  data type, value and assignment
 */
 package javaLecture;
 
